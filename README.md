@@ -7,20 +7,26 @@ WEBSITE NAME : LawGuideIndia
 -----------------------------
 PROJECT DESCRIPTION: This project aims to develop a digital platform that serves as an interactive assistant for individuals seeking to understand their legal rights in India. The platform will provide comprehensive information on various legal topics, laws, and rights relevant to Indian citizens. Users can interact with the assistant through a user-friendly interface to obtain tailored information based on their queries and specific situations. Additionally, the platform will offer features such as guides, FAQs, and resources to enhance legal awareness among users.
 -----------------------------------------------------------------------------------------------------------------------------------------------
-FLOWCHART : 
   Start
     |
+    V
   User Input (Query)
     |
+    V
   Process Query
     |
+    V
   Identify Topic
     |
+    V
   Retrieve Relevant Legal Information
     |
+    V
   Display Information to User
     |
+    V
   Ask for Feedback/Additional Queries
     |
+    V
    End
   -----------------------------------------------------------------------------------------------------------------------------------------------
